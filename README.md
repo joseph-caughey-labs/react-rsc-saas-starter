@@ -199,6 +199,7 @@ GitHub Actions will run both test suites automatically on push.
 
 If you find this project useful, please ⭐ it on [GitHub](https://github.com/joseph-caughey-labs/react-rsc-saas-starter) and share it with other developers building SaaS products!
 
+---
 
 ## MIT License
 
